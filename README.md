@@ -1,5 +1,5 @@
 # GRIP-SparksFoundation
-##Academic Internship 
+##Academic Internship ##
 
 Various tasks were assigned in order to learn and share knowledge on Supervised , Unsupervied Machine Learning Algorithms and exploratory Business Analytics.
 
